@@ -1,0 +1,2 @@
+[merge "mlAutoMerge"]
+   driver = \"C:/Program Files/MATLAB/R2020b/bin/win64/mlAutoMerge.bat\" %O %A %B %A
