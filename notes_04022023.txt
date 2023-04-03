@@ -1,0 +1,10 @@
+SYST 662 Team 1 Project notes
+Notes
+Create a single random new data set using the inpout given by Prof, and then apply random weights. we use the same random dataset each run instead of doing that every run ( recommended by prof)
+apply speed and road cond data to do our data set
+
+Action ITems
+create distribution using supporting data - simon/colleen
+look into unit testing - jack
+Stat/prob analysis investigation - jacob 
+Perform simulation runs using sufficient random destinations to answerquestions Q1 and Q2. The answers to Q1 and Q2 must be backed by statisticalanalysis of the results. Part of the analysis should examine if the statisticsbased on random destinations is the same statistics based on multiple runs.
