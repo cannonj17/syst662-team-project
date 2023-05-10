@@ -1,6 +1,15 @@
 # SYST662 Team 1 Project
 ## Description
-analysis briefing and other related info here
+This is the Code Repository for UMBC SYST662 Team 1 Spring 2023 Group Project.
+
+In this repository, the file structure is as follows:
+- `Syst662Team1Project.mlx` The Simulation File
+- `TBD.mlx` The Analysis Data File
+- `EastCoast.mat`/`EastCoast_w_supporting_data.mat` Edges and Nodes (before and after predictive routing is applied, respectively)
+- `team1_random_speeds.mlx` Road Speed and Condition Data to use for distribution analysis
+- `genlogntrips.m` Provided code to generate the approriate disribution of trips for analysis
+- `trips_short.mat` Script that calls genlogntrips with the appropriate paramers to run the simulation with the desired result.
+- `Archived` Folder of archived work on this assignment
 
 ## Using Git with Matlab
 - Step 1: [Configure MATLAB to Use Git SSH Autentication](https://www.mathworks.com/help/matlab/matlab_prog/set-up-git-source-control.html#use_ssh_authentication)
